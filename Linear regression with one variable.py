@@ -1,4 +1,4 @@
-print('LINEAR REGRESSION WITH ONE VARIABLE`)
+print('LINEAR REGRESSION WITH ONE VARIABLE')
 
 import matplotlib.pyplot as plt #biblioteca para visualizar os dados
 import numpy as np
